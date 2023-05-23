@@ -6,7 +6,7 @@
 )](https://mihir.life)
 
 ## About me
-I'm a passionate software engineer and currently, I work for [udaan.com](https://udaan.com/). I've been around in the industry for 7+ years and I've had plenty of opportunities to work on exciting and cool tech! 😃
+I'm a passionate software engineer and I work for [udaan.com](https://udaan.com/). I've been around in the industry for 7+ years and I've had plenty of opportunities to work on exciting and cool tech! 😃 I'm a learner, tinkerer and troubleshooter.
 
 ## IRL me working on a CSS issue
 ![horse](https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif)
